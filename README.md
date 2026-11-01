@@ -8,7 +8,7 @@
 
 **Curious by default. Building with intent. Learning security one project at a time.**
 
-<a href="https://linkedin.com/in/krishna-kumar-a025a928b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Krishnaa-Kumar/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="mailto:k.krish0015@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/krishnaa-kumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Krishnaa-Kumar/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="mailto:k.krish0015@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
