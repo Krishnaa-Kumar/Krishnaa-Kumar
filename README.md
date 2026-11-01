@@ -1,8 +1,6 @@
-<img src="github-cyber-hero.png" alt="Abstract cyan and violet cybersecurity circuit banner" width="100%" />
+<img src="github-cyber-hero-v3.png" alt="Krishna profile banner with cybersecurity quote, LinkedIn and GitHub links" width="100%" />
 
 <div align="center">
-
-# KRISHNA KUMAR
 
 ### Cybersecurity Student · Software Testing · Front-End Development
 
