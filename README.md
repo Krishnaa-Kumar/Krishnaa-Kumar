@@ -1,54 +1,68 @@
-<img src="github-cyber-hero-v3.png" alt="Krishna profile banner with cybersecurity quote, LinkedIn and GitHub links" width="100%" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=krishnaa-kumar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156588205%3Fu%3Da14cb2d9f2ee5002d2a0a18d31d5dd4d8b2c0bac%26v%3D4" alt="krishnaa-kumar hero visual" />
+</p>
 
-<div align="center">
+<p align="center"><b>Krishna</b> · Frontend or full-stack engineer<br/><sub>Cybersecurity student at Chandigarh Engineering College, CGC Landran | Interested in security research, software testing, and front-end development. Team X earn</sub></p>
 
-### Cybersecurity Student · Software Testing · Front-End Development
+<p align="center"><a href="https://github.com/krishnaa-kumar">GitHub</a></p>
 
-**Curious by default. Building with intent. Learning security one project at a time.**
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-<a href="https://www.linkedin.com/in/krishnaa-kumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Krishnaa-Kumar/Portfolio"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> <a href="mailto:k.krish0015@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=krishnaa-kumar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156588205%3Fu%3Da14cb2d9f2ee5002d2a0a18d31d5dd4d8b2c0bac%26v%3D4" alt="krishnaa-kumar projects visual" />
+</p>
 
-</div>
+- [Arrow-Game](https://github.com/Krishnaa-Kumar/Arrow-Game) · ★ 0
+- [Metamorphism-Login](https://github.com/Krishnaa-Kumar/Metamorphism-Login) · ★ 0
+- [password-shower](https://github.com/Krishnaa-Kumar/password-shower) · ★ 0
+- [Portfolio](https://github.com/Krishnaa-Kumar/Portfolio) · ★ 0
+- [Proposal-Code](https://github.com/Krishnaa-Kumar/Proposal-Code) · ★ 0
+- [Engineering_Chemistry_Revision](https://github.com/Krishnaa-Kumar/Engineering_Chemistry_Revision) · ★ 0
 
----
+</details>
 
-## ⚡ A little about me
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-I’m a cybersecurity student at **Chandigarh Engineering College, CGC Landran**, exploring security research alongside software testing and front-end development. I like turning what I learn into practical, user-focused projects.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=krishnaa-kumar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156588205%3Fu%3Da14cb2d9f2ee5002d2a0a18d31d5dd4d8b2c0bac%26v%3D4" alt="krishnaa-kumar stack visual" />
+</p>
 
-> **Recent win** · Team X earned **3rd place** in the Industrial Research Project at the Cyber Security Lab, Department of RISE, CGC Landran — a one-month program from 3 August to 3 September 2026.
+</details>
 
-## 🧩 Things I’ve built
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-| Project | What you’ll find |
-|:--|:--|
-| [🌐 Portfolio](https://github.com/Krishnaa-Kumar/Portfolio) | A home for my work and web projects. |
-| [🔐 Password Shower](https://github.com/Krishnaa-Kumar/password-shower) | A small, focused password visibility interface. |
-| [🪄 Metamorphism Login](https://github.com/Krishnaa-Kumar/Metamorphism-Login) | A login page design experiment. |
-| [🎯 Arrow Game](https://github.com/Krishnaa-Kumar/Arrow-Game) | A browser game project. |
+<b>16</b> public repositories, <b>0</b> stars, <b>77</b> contributions in the last year, a longest streak of <b>2</b> days and <b>1</b> followers.
 
-## 🛠️ My current toolkit
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=krishnaa-kumar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156588205%3Fu%3Da14cb2d9f2ee5002d2a0a18d31d5dd4d8b2c0bac%26v%3D4" alt="krishnaa-kumar stats visual" />
+</p>
 
-<div align="center">
+</details>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c,git,github&theme=dark" alt="HTML, CSS, JavaScript, Tailwind CSS, C, Git, and GitHub" />
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=krishnaa-kumar&theme=neon" alt="krishnaa-kumar contribution activity" />
+</p>
 
-**Also familiar with:** GitLab · Cloudflare · Canva · Adobe Photoshop
+</details>
 
-## 📈 GitHub at a glance
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=krishnaa-kumar&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156588205%3Fu%3Da14cb2d9f2ee5002d2a0a18d31d5dd4d8b2c0bac%26v%3D4" alt="krishnaa-kumar social visual" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Krishnaa-Kumar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub profile statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-Kumar&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" alt="Most used languages" />
+</details>
 
-</div>
-
----
-
-<div align="center">
-
-**Always learning. Always shipping.**
-
-</div>
+<p align="center"><sub>Krishna · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
